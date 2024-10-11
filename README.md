@@ -1,1 +1,1 @@
-# cnn
+# cnn（Convolutional Neural Network）
